@@ -15,11 +15,13 @@ const About = () => {
   </div>
   <div className='about-right'>
 <div className='about-para'>
-<p>On Dec. 22, 1799, Sands told her cousins that she would be leaving to elope with a fellow boarder named Levi Weeks that night.</p>
-<p>On Dec. 22, 1799, Sands told her cousins that she would be leaving to elope with a fellow boarder named Levi Weeks that night.</p>
+<p>As a dedicated web developer, I specialize in crafting dynamic and visually stunning websites using technologies like WordPress,
+Angular, and Laravel PHP APIs. With expertise in HTML5, CSS3, and JavaScript, TypeScript, I excel in custom theme development and
+building robust web applications. My proficiency extends to integrating RESTful APIs into Angular applications and creating scalable
+solutions with Laravel PHP APIs. I consistently deliver tailored solutions that exceed client expectations. .</p>
 </div>
 <div className='about-skills'>
-<div className='about-skill'><p>HTML/CSS</p><hr style={{width:"50%"}}/></div>
+<div className='about-skill'><p>HTML/CSS</p><hr style={{width:"`100%"}}/></div>
 <div className='about-skill'><p>Java Script</p><hr style={{width:"70%"}}/></div>
 <div className='about-skill'><p>React</p><hr style={{width:"60%"}}/></div>
 <div className='about-skill'><p>Angular</p><hr style={{width:"50%"}}/></div>
@@ -29,7 +31,7 @@ const About = () => {
 
 <div className='about-achievements'>
     <div className='about-achievement'>
-  <h1>10+</h1>
+  <h1>5+</h1>
   <p>YEAR OF EXPERIENCE</p>
     </div>
 

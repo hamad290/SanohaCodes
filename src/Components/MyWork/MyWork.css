@@ -76,6 +76,7 @@ cursor: pointer;
     .mywork-container{
         grid-template-columns: 1fr 1fr;
         gap: 30px;
+        display: contents;
     }
     .mywork-container img{
         width: 100%;

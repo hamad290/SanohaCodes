@@ -1,3 +1,9 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
 .navbar{
     display: flex;
     align-items: center;
@@ -79,6 +85,7 @@
         flex-direction: 100px;
         gap: 20px;
     }
+    
 
 }
 

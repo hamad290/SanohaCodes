@@ -41,7 +41,7 @@ const Contact = () => {
      <div className='contact-section'>
     <div className='contact-left'>
 <h1>Lets Talk</h1>
-<p>Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode. Next. Create account. For my personal use; For work or my </p>
+<p>Ready to discuss your next project? I'm here to help bring your vision to life. Get in touch today, and let's start creating something amazing together.</p>
     <div className='contact-details'>
   <div className='contact-detail'>
  <img src ={mail_icon}/><p>hamad290k@gmail.com</p>

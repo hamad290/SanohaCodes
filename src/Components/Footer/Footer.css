@@ -74,4 +74,16 @@ margin-bottom: 50px;
         flex-direction: column-reverse;
         margin-bottom: 50px;
     }
+    .footer-subscribe{
+        display: none;
+    }
+    
+    .footer-email-input{
+    display: none;
+        
+    }
+    .footer-bottom-left{
+        text-align: center;
+    }
+    
 }
