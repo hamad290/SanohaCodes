@@ -140,3 +140,126 @@ transition: 0.5s;
         font-size: 16px;
     }
 }
+
+@media(max-width:320px){
+    .about{
+        gap: 80px;
+        margin: 0px 0px;
+        
+        align-items: center;
+    }
+    .about-title h1{
+        font-size: 50px;
+        padding: 0;
+       
+    }
+    .about-title img{
+        width: 130px;
+        right: -20px;
+    }
+    .about-sections{
+        flex-direction: column;
+        text-align: center;
+    }
+    .about-left{
+        display: none;
+    }
+    .about-para{
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .about-skill{
+        gap: 9px;
+        align-items: center;
+    }
+    .about-skills{
+            display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+    .about-skill p{
+        font-size: 20px;
+        min-width: 100px;
+    }
+    .about-achievements{
+        justify-content: space-between;
+        
+    }
+    .about-achievement{
+        gap: 10px;
+    }
+    .about-achievement h1{
+        font-size: 34px;
+        font-weight: 700;
+    }
+    .about-achievement p{
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+
+
+@media(max-width:480px){
+    .about{
+        gap: 80px;
+        margin: 0px 0px;
+        
+        align-items: center;
+    }
+    .about-title h1{
+        font-size: 50px;
+        padding: 0;
+       
+    }
+    .about-title img{
+        width: 130px;
+        right: -20px;
+    }
+    .about-sections{
+        flex-direction: column;
+        text-align: center;
+    }
+    .about-left{
+        display: none;
+    }
+    .about-para{
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .about-skill{
+        gap: 9px;
+        align-items: center;
+    }
+    .about-skills{
+            display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+    .about-skill p{
+        font-size: 20px;
+        min-width: 100px;
+    }
+    .about-achievements{
+        justify-content: space-between;
+        margin-left: -19px;
+    }
+    }
+    .about-achievement{
+        gap: 10px;
+    }
+    .about-achievement h1{
+        font-size: 34px;
+        font-weight: 700;
+    }
+    .about-achievement p{
+        text-align: center;
+        font-size: 16px;
+    }
+}
